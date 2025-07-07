@@ -1,3 +1,4 @@
+######### 🚀 CONVOLOGUE 🚀
 # ✨ Full Stack Realtime Chat App ✨
 
 Highlights:
